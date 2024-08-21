@@ -1,16 +1,10 @@
-﻿AppName,AppVersion
-DIALux evo (x64),5.12.1.7323
-DIAL Data Dispatcher,2.0.24.0
-DIAL Communication Framework,3.0.344.0
-BluebeamOCR 21,21.0.30
-Bluebeam Revu x64 21,21.1.0
-ReluxDesktop,2024.1.12.0
-Cato Client,5.11.6.2845
-iTunes,12.13.2.3
-Adobe Acrobat (64-bit),24.002.20687
-Adobe Creative Cloud,6.2.0.554
-Adobe Illustrator 2024,28.5
-Adobe InDesign 2024,19.4
-Adobe Media Encoder 2024,24.3
-Adobe Photoshop 2024,25.7.0.504
-Adobe Premiere Pro 2024,24.3
+AppName	AppVersion
+DIALux evo (x64)	5.12.1.7323
+DIAL Data Dispatcher	2.0.24.0
+DIAL Communication Framework	3.0.344.0
+BluebeamOCR 21	21.0.30
+Bluebeam Revu x64 21	21.1.0
+ReluxDesktop	2024.1.12.0
+Cato Client	5.11.6.2845
+iTunes	12.13.2.3
+Adobe Acrobat Reader MUI	24.002.21005
